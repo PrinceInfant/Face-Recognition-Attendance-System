@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+face_recognition
+opencv-python
+pandas
+openpyxl
+python-multipart
+pillow
+numpy
+pymysql
